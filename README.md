@@ -1,3 +1,10 @@
+<trampolinerocket>
+
+# arxiv sanity preserver - astrophysics version
+
+Forked from Andrej Karpathy's arxiv sanity preserver, set to preserve our sanity with astrophysics papers on arxiv in lieu of AI papers in the original.
+
+</trampolinerocket>
 
 # arxiv sanity preserver
 
